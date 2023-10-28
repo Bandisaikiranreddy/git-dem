@@ -1,3 +1,2 @@
 This is file one
-This is the modified file
 
